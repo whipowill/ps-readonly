@@ -12,5 +12,6 @@ This is a unique situation, and this script may not be useful to others, but I'm
 - Edit the file in Notepad to target your file
 - Save your changes
 - Right click and run as PowerScript
+- Close window (or ``ctl-c``) to end script
 
 The script will backup the target file and begin watching for changes.  If and when it detects a change it will replace the modified file w/ the backup.
